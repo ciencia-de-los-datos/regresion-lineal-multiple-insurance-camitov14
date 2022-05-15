@@ -9,7 +9,7 @@ selección de las n variables más relevantes usando una prueba f.
 # pylint: disable=invalid-name
 # pylint: disable=unsubscriptable-object
 
-from statistics import linear_regression
+
 import pandas as pd
 
 
